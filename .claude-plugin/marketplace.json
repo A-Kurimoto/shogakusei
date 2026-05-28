@@ -1,0 +1,12 @@
+{
+  "name": "shogakusei",
+  "owner": { "name": "A-Kurimoto" },
+  "description": "Claude Code に専門用語を子供にもわかる日本語で説明させるプラグイン marketplace",
+  "plugins": [
+    {
+      "name": "shogakusei",
+      "source": "./plugins/shogakusei",
+      "description": "説明強制平易化モード。専門用語・英略語を子供にもわかる日本語に置き換える。3段階の強度レベル（小学生/幼稚園/極限）"
+    }
+  ]
+}
